@@ -135,9 +135,9 @@ This dashboard enables users to:
 * Explore relationships between utilization and costs
 
 ---
-Screen Shot: 
+## Screen Shot
 
-![Dashboard Preview] ()
+![Dashboard Preview](https://github.com/Dipenpatel303/Medicare-Part-D-Prescriber-Data/blob/main/Medicare%20Part%20D%20Prescibers%20Data%202023.png)
 
 ---
 
