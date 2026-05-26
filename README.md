@@ -135,6 +135,11 @@ This dashboard enables users to:
 * Explore relationships between utilization and costs
 
 ---
+Screen Shot: 
+
+![Dashboard Preview] ()
+
+---
 
 ## Skills Demonstrated
 
