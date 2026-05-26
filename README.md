@@ -136,10 +136,6 @@ This dashboard enables users to:
 
 ---
 
-## Screen Shot : (https://github.com/Dipenpatel303/Medicare-Part-D-Prescriber-Data/blob/main/Medicare%20Part%20D%20Prescibers%20Data%202023.png)
-
----
-
 ## Skills Demonstrated
 
 This project highlights experience in:
